@@ -1,1 +1,1 @@
-echo <filecontent> <filename>
+git pull origin
